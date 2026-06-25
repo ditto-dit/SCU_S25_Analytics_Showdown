@@ -1,4 +1,4 @@
-# 🌞 the client Solar Energy — Analytics Showdown (2nd Place)
+# 🌞 Solar Energy — Analytics Showdown (2nd Place)
 **SCU Analytics Showdown | Group 4**
 
 > **Award:** 🥈 2nd Place — SCU Analytics Showdown
@@ -7,7 +7,7 @@
 
 ## Project Overview
 
-**the client** is a Colombian social enterprise that brings solar energy to remote Indigenous communities through a microcredit model — families pay for their solar systems in monthly installments managed by local community agents called *Guardians*.
+**The client** is a Colombian social enterprise that brings solar energy to remote Indigenous communities through a microcredit model — families pay for their solar systems in monthly installments managed by local community agents called *Guardians*.
 
 Our team was given over **48,000 records** spanning payments, contracts, client profiles, and geographic data. The challenge: turn raw data into actionable insights that help the client reduce payment defaults, predict disconnection risks, and identify their strongest and weakest performing zones and agents.
 
